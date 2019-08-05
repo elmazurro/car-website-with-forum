@@ -1,0 +1,30 @@
+body{
+	padding-top: 70px;
+	background: url(mainPageBackground.jpg);
+	background-size: cover;
+}
+
+.jumbotron{
+	color: #2c3e50;
+}
+
+.navbar-inverse{
+	background: #2c3e50; 
+}
+
+nav{
+	color: white;
+}
+
+img {
+}
+.c {
+  margin: auto;
+  max-width: 600px;
+  text-align: center;
+}
+
+.p {
+  font-size: .9em;
+  padding-top: 140px;
+}
